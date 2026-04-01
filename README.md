@@ -1,2 +1,0 @@
-# SANSA-AI1
-SANSA AI
